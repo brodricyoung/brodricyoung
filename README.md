@@ -13,7 +13,7 @@ I’m a computer engineering student with a passion for creating things, from wo
 
 ## Let's Connect!
 
-Check out my [Personal Porfolio Website]() I created to showcase my projects in various areas and also more about me and my interests!
+Check out my [Personal Porfolio Website]() I created to showcase my projects in various areas and also more about me and my interests! Projects on my site include Logisim designs of digital systems, Verilog and FPGA projects, microcontroller-based circuits, and software engineering applications in addition to projects involving woodworking and other construction trades.
 - [LinkedIn](https://www.linkedin.com/in/brodric-young/)
 - [Handshake](https://byui.joinhandshake.com/profiles/r3njur)
 - [Email](mailto:youngbrodric10@gmail.com)
